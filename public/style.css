@@ -1,0 +1,127 @@
+.charcoal-header {
+  background-color: #e2e4e7;
+  color: #000;
+}
+
+.bright-yellow-sidebar {
+  background-color:#e2e4e7;
+  color: #000; /* Black text color for contrast */
+}
+.tttt {
+  border-radius: 25px;
+}
+
+.ttt {
+    color: #FFFF00; /* Yellow color for the toggle button */
+}
+.centered-card {
+            margin: 0 auto; /* Centers the card horizontally */
+            float: none; /* Ensures the card is not floated */
+        }
+        .color{
+          background-color: rgb(176, 120, 228);
+        }
+        .underline-link {
+            text-decoration: underline;
+            color: inherit; /* Inherit color from parent */
+        }
+        .color {
+            background-color: rgb(176, 120, 228);
+          }
+      
+          .main {
+            padding: 20px;
+          }
+      
+          .card-body h5 {
+            margin: 0;
+          }
+      
+          .navbar {
+            margin-bottom: 20px;
+          }
+      
+          .welcome-container {
+            text-align: center;
+            margin-bottom: 20px;
+          }
+          .subject-card {
+            transition: transform 0.2s;
+          }
+          .subject-card:hover {
+            transform: scale(1.05);
+          }
+          .subject-icon {
+            font-size: 50px;
+            color: #6c757d;
+          }
+          .subjects-section {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 80vh;
+          }
+          .faculty-card {
+            transition: transform 0.2s;
+          }
+          .faculty-card:hover {
+            transform: scale(1.05);
+          }
+          .faculty-icon {
+            font-size: 50px;
+            color: #6c757d;
+          }
+          .faculties-section {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 80vh;
+          }
+          .batch-card {
+            transition: transform 0.2s;
+          }
+          .batch-card:hover {
+            transform: scale(1.05);
+          }
+          .batch-icon {
+            font-size: 50px;
+            color: #6c757d;
+          }
+          .batches-section {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 80vh;
+          }
+          .lecture-card {
+            transition: transform 0.2s;
+          }
+          .lecture-card:hover {
+            transform: scale(1.05);
+          }
+          .lecture-icon {
+            font-size: 50px;
+            color: #6c757d;
+          }
+          .lectures-section {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 80vh;
+          }
+          .payment-card {
+            transition: transform 0.2s;
+          }
+          .payment-card:hover {
+            transform: scale(1.05);
+          }
+          .payment-icon {
+            font-size: 50px;
+            color: #6c757d;
+          }
+          .payments-section {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 80vh;
+          }
