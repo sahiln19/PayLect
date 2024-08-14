@@ -20,7 +20,7 @@ export default function EditLectures() {
                                     <h5 className="mb-0">Edit Lecture</h5>
                                 </div>
                                 <div className="card-body mt-2">
-                                    <form>Edit
+                                    <form>
                                         <div className="mb-3">
                                             <label htmlFor="EditLectureId" className="form-label">Edit Id</label>
                                             <input type="text" className="form-control" id="EditLectureId" placeholder="Edit Lecture Id" />
